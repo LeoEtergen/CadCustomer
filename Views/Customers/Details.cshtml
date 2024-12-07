@@ -1,0 +1,109 @@
+﻿@model CadCustomer.Models.Customer
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Customer</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.DataNasc)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.DataNasc)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.RG)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.RG?.Insert(2, ".")?.Insert(6, ".")?.Insert(10, "-")
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.EstadoCivil)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.EstadoCivil)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Logradouro)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Logradouro)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Numero)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Numero)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Bairro)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Bairro)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cidade)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cidade)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.UF)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.UF)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Pais)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Pais)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CEP)
+        </dt>
+        <dd class="col-sm-10">
+            @Model.CEP?.Insert(5, "-")
+        </dd>
+
+        <dt class="col-sm-2">
+            Nome do Pai
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomePai)
+        </dd>
+
+        <dt class="col-sm-2">
+            Nome da Mãe
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.NomeMae)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

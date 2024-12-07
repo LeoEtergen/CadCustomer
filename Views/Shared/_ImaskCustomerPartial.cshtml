@@ -1,0 +1,23 @@
+﻿<script>
+    var cepMask = IMask(
+        document.getElementById('CEP'), {
+        mask: '00000-000',
+        lazy: true,
+        placeholderChar: '_'
+    });
+
+    var rgMask = IMask(
+        document.getElementById('RG'), {
+        mask: '00.000.000-0',
+        lazy: true,
+        placeholderChar: '_'
+    });
+
+    document.getElementById('CEP').addEventListener('input', function (e) {
+        this.value = this.value.replace(/[^0-9\-]/g, ''); // Remove qualquer caractere que não seja número ou hífen
+    });
+
+    document.getElementById('RG').addEventListener('input', function (e) {
+        this.value = this.value.replace(/[^0-9.\-]/g, ''); // Remove qualquer caractere que não seja número, ponto ou hífen
+    });
+</script>

@@ -1,0 +1,57 @@
+﻿@model IEnumerable<CadCustomer.Models.Customer>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Customers</h1>
+
+<p>
+    <a asp-action="Create">Criar um Customer</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome</th>
+            <th>Data de Nascimento</th>
+            <th>RG</th>
+            <th>Estado Civil</th>
+            <th>Logradouro</th>
+            <th>Número</th>
+            <th>Bairro</th>
+            <th>Cidade</th>
+            <th>UF</th>
+            <th>País</th>
+            <th>CEP</th>
+            <th>Nome do pai</th>
+            <th>Nome da mãe</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Nome)</td>
+                <td>@item.DataNasc.ToString("dd/MM/yyyy")</td>
+                <td>@(string.IsNullOrEmpty(item.RG) ? "N/A" : item.RG.Insert(2, ".").Insert(6, ".").Insert(10, "-"))</td>
+                <td>@Html.DisplayFor(modelItem => item.EstadoCivil)</td>
+                <td>@Html.DisplayFor(modelItem => item.Logradouro)</td>
+                <td>@Html.DisplayFor(modelItem => item.Numero)</td>
+                <td>@Html.DisplayFor(modelItem => item.Bairro)</td>
+                <td>@Html.DisplayFor(modelItem => item.Cidade)</td>
+                <td>@Html.DisplayFor(modelItem => item.UF)</td>
+                <td>@Html.DisplayFor(modelItem => item.Pais)</td>
+                <td>@(string.IsNullOrEmpty(item.CEP) ? "N/A" : item.CEP.Insert(5, "-"))</td>
+                <td>@Html.DisplayFor(modelItem => item.NomePai)</td>
+                <td>@Html.DisplayFor(modelItem => item.NomeMae)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
