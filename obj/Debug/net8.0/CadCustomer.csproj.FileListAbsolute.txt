@@ -582,3 +582,4 @@ C:\Users\leohg\Downloads\CadCustomer\obj\Debug\net8.0\refint\CadCustomer.dll
 C:\Users\leohg\Downloads\CadCustomer\obj\Debug\net8.0\CadCustomer.pdb
 C:\Users\leohg\Downloads\CadCustomer\obj\Debug\net8.0\CadCustomer.genruntimeconfig.cache
 C:\Users\leohg\Downloads\CadCustomer\obj\Debug\net8.0\ref\CadCustomer.dll
+C:\Users\leohg\Downloads\CadCustomer\obj\Debug\net8.0\CadCustomer.sourcelink.json

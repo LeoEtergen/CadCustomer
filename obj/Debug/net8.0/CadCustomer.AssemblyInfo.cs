@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadCustomer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c0047dcd7471025e5936382143ff23f05a884d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadCustomer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadCustomer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

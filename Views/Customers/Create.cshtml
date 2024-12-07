@@ -2,28 +2,21 @@
 
 @{
     var action = ViewContext.RouteData.Values["Action"].ToString().ToLower();
+    string pageTitle = action == "create" ? "Adicionar Customer" : "Editar Customer";
 
-    if (action == "create")
-    {
-        ViewData["Title"] = "Adicionar customer";
-        <h1>Adicionar Customer</h1>
-    }
-    else
-    {
-        ViewData["Title"] = "Editar customer";
-        <h1>Editar</h1>
-    }
-
+    ViewData["Title"] = pageTitle;
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<hr />
-<div class="row">
-    <div class="col-md-12">
-        @using (Html.BeginForm(null, "Customers", FormMethod.Post, new { @class = "needs-validation", novalidate = "true" }))
-        {
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h4 class="text-center">@pageTitle</h4>
+        </div>
+        <div class="card-body">
             <form asp-action="Create">
-                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
                 <div class="row">
                     <div class="col-md-5">
                         <div class="form-group">
@@ -54,6 +47,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-md-2">
                         <div class="form-group">
@@ -84,6 +78,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-md-5">
                         <div class="form-group">
@@ -100,6 +95,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="row">
                     <div class="col-md-6">
                         <div class="form-group">
@@ -116,18 +112,14 @@
                         </div>
                     </div>
                 </div>
-                <br />
-                <div class="form-group">
-                    <input type="submit" value="Create" class="btn btn-primary" />
+
+                <div class="form-group text-center mt-4">
+                    <input type="submit" value="Salvar" class="btn btn-success me-2" />
+                    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
                 </div>
             </form>
-            <br />
-        }
+        </div>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
 </div>
 
 @section Scripts {
@@ -144,4 +136,3 @@
         await Html.RenderPartialAsync("_CEPPartial");
     }
 }
-

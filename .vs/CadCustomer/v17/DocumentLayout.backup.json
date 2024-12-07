@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\leohg\\Downloads\\CadCustomer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\data\\cadcustomercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:data\\cadcustomercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\shared\\_imaskcustomerpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,36 +51,12 @@
       "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\shared\\_ceppartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\customers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:views\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\migrations\\20241206035711_syncmodelwithdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:migrations\\20241206035711_syncmodelwithdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|c:\\users\\leohg\\downloads\\cadcustomer\\data\\cadcustomercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93190022-24A4-404A-8026-779808DB4831}|CadCustomer.csproj|solutionrelative:data\\cadcustomercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,54 +74,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ImaskCustomerPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Shared\\_ImaskCustomerPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ImaskCustomerPartial.cshtml",
-              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Shared\\_ImaskCustomerPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ImaskCustomerPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T17:34:33.17Z",
+              "WhenOpened": "2024-12-07T18:41:44.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_CEPPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Shared\\_CEPPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_CEPPartial.cshtml",
-              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Shared\\_CEPPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_CEPPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T17:12:37.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Customers\\Index.cshtml",
               "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Customers\\Index.cshtml",
               "RelativeToolTip": "Views\\Customers\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-06T03:55:50.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Customers\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Customers\\Edit.cshtml",
               "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Customers\\Edit.cshtml",
               "RelativeToolTip": "Views\\Customers\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAqwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T03:55:30.612Z"
+              "WhenOpened": "2024-12-06T03:55:30.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -123,48 +119,48 @@
               "RelativeDocumentMoniker": "Views\\Customers\\Details.cshtml",
               "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Customers\\Details.cshtml",
               "RelativeToolTip": "Views\\Customers\\Details.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-06T03:54:23.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Customers\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Customers\\Delete.cshtml",
               "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Customers\\Delete.cshtml",
               "RelativeToolTip": "Views\\Customers\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T03:53:40.167Z"
+              "WhenOpened": "2024-12-06T03:53:40.167Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Customers\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Customers\\Create.cshtml",
               "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Customers\\Create.cshtml",
               "RelativeToolTip": "Views\\Customers\\Create.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwDwAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-06T03:50:15.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "Controllers\\CustomersController.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAwD4AAAANAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CadCustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Data\\CadCustomerContext.cs",
+              "RelativeDocumentMoniker": "Data\\CadCustomerContext.cs",
+              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Data\\CadCustomerContext.cs",
+              "RelativeToolTip": "Data\\CadCustomerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:23:49.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-06T03:22:38.748Z"
             },
             {
               "$type": "Document",
@@ -174,14 +170,63 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-06T04:02:04.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-07T18:32:42.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_CEPPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Shared\\_CEPPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_CEPPartial.cshtml",
+              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Shared\\_CEPPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_CEPPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T17:12:37.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAswDYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:23:49.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ImaskCustomerPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Shared\\_ImaskCustomerPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ImaskCustomerPartial.cshtml",
+              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Views\\Shared\\_ImaskCustomerPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ImaskCustomerPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T17:34:33.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "20241206035711_SyncModelWithDatabase.cs",
               "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Migrations\\20241206035711_SyncModelWithDatabase.cs",
               "RelativeDocumentMoniker": "Migrations\\20241206035711_SyncModelWithDatabase.cs",
@@ -193,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -202,18 +247,6 @@
               "ViewState": "AgIAADYAAAAAAAAAAAAxwCwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T03:23:10.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CadCustomerContext.cs",
-              "DocumentMoniker": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Data\\CadCustomerContext.cs",
-              "RelativeDocumentMoniker": "Data\\CadCustomerContext.cs",
-              "ToolTip": "C:\\Users\\leohg\\Downloads\\CadCustomer\\Data\\CadCustomerContext.cs",
-              "RelativeToolTip": "Data\\CadCustomerContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:22:38.748Z"
             }
           ]
         }
